@@ -22,13 +22,8 @@ Each script can be run from the command line by navigating to the script's direc
 ---
 
 ### ⚠️ Note
-Please ensure you have the necessary permissions and review the scripts before running them. 🚨
+Ensure you have the necessary permissions to execute the scripts, and review the commands in each script before running them on your system.
 
 ---
 
-**Formatted Appearance in GitHub:**
-
-- The headings (`#`) will be larger and bold.
-- Lists will appear in a bullet-point format.
-- Any code or commands will be highlighted properly.
 
